@@ -1,4 +1,6 @@
 model_checkpoint_path: "model1_lstm.ckpt"
-all_model_checkpoint_paths: "../model_log_dir/model.ckpt-0"
-all_model_checkpoint_paths: "../model_log_dir/model.ckpt-2089"
+all_model_checkpoint_paths: "../model_log_dir/model.ckpt-5662"
+all_model_checkpoint_paths: "../model_log_dir/model.ckpt-7111"
+all_model_checkpoint_paths: "../model_log_dir/model.ckpt-8594"
+all_model_checkpoint_paths: "../model_log_dir/model.ckpt-9292"
 all_model_checkpoint_paths: "model1_lstm.ckpt"
